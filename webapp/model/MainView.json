@@ -1,0 +1,11 @@
+{
+    "FilterData":[],
+    "MaterialBtns":{
+        "Page":true,
+        "Table":true,
+        "BtnEnable":false
+    },
+    "TableColumns":["Delete_mc,Update_mc,KnumaAg,Kunnr,Matnr,Datbi,Datab,Rate,Rateunit"],
+    "TableProperties":[],
+    "TableKeyProperties":[]
+}
